@@ -28,7 +28,7 @@ export default function App() {
     <div>
       <header>
         <img className="app-logo" src={appLogo} alt="Logo" />
-        <h1><span>Stock Tracker</span></h1>
+        <h1><span>Bakdoolot's Stock Tracker company</span></h1>
       </header>
 
       <div className="wrapper">
